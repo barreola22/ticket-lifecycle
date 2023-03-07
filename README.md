@@ -29,26 +29,14 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+The ticket lifecycle typically involves the following stages:
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Intake: This is the stage where a ticket is created and submitted. This can be done by the customer or end-user via various channels such as email, phone, web form, or chat. The ticket should contain essential details, such as the issue description, category, priority, and any other relevant information.
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Assignment and Communication: After the ticket is created, it is assigned to a support agent or a team based on the issue category, priority, and availability of the agent or team. The support agent communicates with the customer or end-user to gather more details and to provide updates on the progress of the ticket. The communication can happen via email, phone, chat, or any other preferred channel.
+
+Working the Issue: Once the support agent receives the ticket, they analyze the issue, gather more information if required, and work on resolving the issue. This stage may involve collaboration with other team members or departments, depending on the complexity of the issue. The support agent should keep the customer or end-user updated on the progress of the ticket and any changes in the expected resolution time.
+
+Resolution: Once the issue is resolved, the support agent should communicate the resolution to the customer or end-user and close the ticket. The agent may also ask for feedback on the support experience and the resolution provided. If the issue is not resolved, the ticket may be escalated to a higher support level or to a different team.
+
+By following these stages, the support team can efficiently manage and resolve tickets, provide excellent customer service, and continuously improve the support process.
